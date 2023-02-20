@@ -37,3 +37,5 @@ Integer division on most machines is even slower than integer multiplication—r
 Dividing unsigned numbers by powers of 2, the two different right shifts—logical and arithmetic—serve this purpose for unsigned and two's-complement numbers, respectively:
 
 ![](e.png)
+
+the “integer” arithmetic performed by computers is really a form of modular arithmetic
