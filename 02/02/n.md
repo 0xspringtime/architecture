@@ -10,10 +10,10 @@ Integer data and arithmetic:
     TMinw   Constant    Minimum two's-complement value  
     TMaxw   Constant    Maximum two's-complement value 
     UMaxw   Constant    Maximum unsigned value  
-    +wt Operation       Two's-complement addition  
-    +wu Operation       Unsigned addition   
-    *wt Operation       Two's-complement multiplication 
-    *wu Operation       Unsigned multiplication 
-    −wt Operation       Two's-complement negation  
-    −wu Operation       Unsigned negation   
+    +wt     Operation    Two's-complement addition  
+    +wu     Operation    Unsigned addition   
+    *wt     Operation    Two's-complement multiplication 
+    *wu     Operation    Unsigned multiplication 
+    -wt     Operation    Two's-complement negation  
+    −wu     Operation    Unsigned negation   
 
