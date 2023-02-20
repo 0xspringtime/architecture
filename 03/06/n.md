@@ -24,3 +24,9 @@ Each instruction sets a single byte to 0 or 1 based on some combination of the c
 jump instructions:
 
 ![](c.png)
+
+conditional move instructions:
+
+![](d.png)
+
+conditional data transfers offer an alternative strategy to conditional control transfers for implementing conditional operations
