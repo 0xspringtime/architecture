@@ -26,3 +26,11 @@ B2Uw is a bijection: The function B2Uw maps each bit vector of length w to a uni
 Two's-complement: Also a bijection: for a number x, such that TMinw≤x≤TMaxw, T2Bw(x) is the (unique) w-bit pattern that encodes x
 
 ![](b.png)
+
+Conversion from two's complement to unsigned: B2Uw(T2Bw(x))=T2Uw(x)=x+xw−12w
+
+Comparing unsigned and two's-complement representations
+
+![](c.png)
+
+
