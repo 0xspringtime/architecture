@@ -15,5 +15,14 @@ Integer data and arithmetic:
     *wt     Operation    Two's-complement multiplication 
     *wu     Operation    Unsigned multiplication 
     -wt     Operation    Two's-complement negation  
-    −wu     Operation    Unsigned negation   
+    -wu     Operation    Unsigned negation   
 
+
+B2Uw is a bijection: The function B2Uw maps each bit vector of length w to a unique number between 0 and 2^w – 1, and it has an inverse, which we call U2Bw (for “unsigned to binary”), that maps each number in the range 0 to 2^w – 1 to a unique pattern of w bits
+
+![](a.png)
+
+
+Two's-complement: Also a bijection: for a number x, such that TMinw≤x≤TMaxw, T2Bw(x) is the (unique) w-bit pattern that encodes x
+
+![](b.png)
