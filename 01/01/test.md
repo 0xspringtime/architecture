@@ -1,7 +1,3 @@
-test
-
-
-![](a.png)
 
 	1 #include <stdio.h>
 	2
@@ -10,6 +6,8 @@ test
 	5     printf('hello, world\n');
 	6     return 0;
 	7 }    
+
+ASCII representation:
 
     #   i   n   c   l   u   d   e   SP  <   s   t   d   i   o   .
     35  105 110 99  108 117 100 101 32  60  115 116 100 105 111 46
@@ -21,3 +19,6 @@ test
     108 111 44  32  119 111 114 108 100 92  110 34  41  59  10  32
     SP  SP  SP  r   e   t   u   r   n   SP  0   ;   \n  }   \n  
     32  32  32  114 101 116 117 114 110 32  48  59  10  125 10  
+
+
+
