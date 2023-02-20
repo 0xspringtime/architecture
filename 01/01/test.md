@@ -1,2 +1,2 @@
 test
-![i](a.png])
+![](a.png])
