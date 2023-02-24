@@ -1,4 +1,4 @@
-[1 A Tour of Computer Systems](./01/01)
+[1 A Tour of Computer Systems](./01/01/n.md)
 
 1.1 Information Is Bits + Context
 
