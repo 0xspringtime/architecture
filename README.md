@@ -18,8 +18,6 @@
 
 [1.10 Summary](./01/10/n.md)
 
-2 Representing and Manipulating Information
-
 [2.1 Information Storage](./02/01/n.md)
 
 [2.2 Integer Representations](./02/02/n.md)
@@ -110,8 +108,6 @@
 
 [6.7 Summary](./06/07/n.md)
 
-7 Linking
-
 [7.1 Compiler Drivers](./07/01/n.md)
 
 [7.2 Static Linking](./07/02/n.md)
@@ -181,8 +177,6 @@
 [9.11 Common Memory-Related Bugs in C Programs](./09/11/n.md)
 
 [9.12 Summary](./09/12/n.md)
-
-10 System-Level I/O
 
 [10.1 Unix I/O](./10/01/n.md)
 
