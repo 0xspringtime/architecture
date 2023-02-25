@@ -21,10 +21,7 @@ Lists differ from sets in two ways: in lists, order matters and repetitions have
 1.10 Definition $\mathbf{F}^n$
 $\mathbf{F}^n$ is the set of all lists of length $n$ of elements of $\mathbf{F}$ :
 
-$$\mathbf{F}^n=\left{\left(x_1, \ldots, x_n\right): x_j \in \mathbf{F} \text { for } j=1, \ldots, n\right}$$
-
 $$\mathbf{F}^n=\left\\lbrace\left(x_1, \ldots, x_n\right): x_j \in \mathbf{F} \text { for } j=1, \ldots, n\right\\rbrace$$
-
 
 For $\left(x_1, \ldots, x_n\right) \in \mathbf{F}^n$ and $j \in\{1, \ldots, n\}$, we say that $x_j$ is the $j^{\text {th }}$ coordinate of $\left(x_1, \ldots, x_n\right)$.
 
@@ -33,4 +30,4 @@ Addition in $\mathbf{F}^n$ is defined by adding corresponding coordinates:
 
 $$\left(x_1, \ldots, x_n\right)+\left(y_1, \ldots, y_n\right)=\left(x_1+y_1, \ldots, x_n+y_n\right)$$
 
-![](a.png)
+A __field__ is a set containing at least two distinct elements called 0 and 1, along with operations of addition and multiplication satisfying certain properties
