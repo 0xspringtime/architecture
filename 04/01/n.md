@@ -21,7 +21,7 @@ Lists differ from sets in two ways: in lists, order matters and repetitions have
 1.10 Definition $\mathbf{F}^n$
 $\mathbf{F}^n$ is the set of all lists of length $n$ of elements of $\mathbf{F}$ :
 
-$$\mathbf{F}^n=\left(\{\left(x_1, \ldots, x_n\right): x_j \in \mathbf{F} \text { for } j=1, \ldots, n\right)\}$$
+$$\mathbf{F}^n=\left{\left(x_1, \ldots, x_n\right): x_j \in \mathbf{F} \text { for } j=1, \ldots, n\right}$$
 
 $$\mathbf{F}^n=\left\{\left(x_1, \ldots, x_n\right): x_j \in \mathbf{F} \text { for } j=1, \ldots, n\right\}$$
 
