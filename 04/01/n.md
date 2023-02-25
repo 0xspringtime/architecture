@@ -10,9 +10,7 @@ $$
 $$
 - Addition and multiplication on $\mathbf{C}$ are defined by
 $$
-\begin{gathered}
 (a+b i)+(c+d i)=(a+c)+(b+d) i, \\
 (a+b i)(c+d i)=(a c-b d)+(a d+b c) i
-\end{gathered}
 $$
 here $a, b, c, d \in \mathbf{R}$.
