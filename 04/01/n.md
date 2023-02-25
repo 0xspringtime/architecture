@@ -22,7 +22,7 @@ Lists differ from sets in two ways: in lists, order matters and repetitions have
 $\mathbf{F}^n$ is the set of all lists of length $n$ of elements of $\mathbf{F}$ :
 
 $$
-\mathbf{F}^n=\left\{\left(x_1, \ldots, x_n\right): x_j \in \mathbf{F} \text { for } j=1, \ldots, n\right\}
+\mathbf{F}^n=\left{\left(x_1, \ldots, x_n\right): x_j \in \mathbf{F} \text { for } j=1, \ldots, n\right\}
 $$
 
 For $\left(x_1, \ldots, x_n\right) \in \mathbf{F}^n$ and $j \in\{1, \ldots, n\}$, we say that $x_j$ is the $j^{\text {th }}$ coordinate of $\left(x_1, \ldots, x_n\right)$.
