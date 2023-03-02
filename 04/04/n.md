@@ -13,3 +13,8 @@ One clock cycle of pipeline operation:
 The system throughput is limited by the speed of the slowest stage:
 
 ![](d.png)
+
+Limitations of pipelining due to logical dependencies:
+
+![](e.png)
+
